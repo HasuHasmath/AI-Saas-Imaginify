@@ -3,7 +3,7 @@ import React from 'react'
 const CreditPage = () => {
   return (
     <div>
-      credits
+      credits page
     </div>
   )
 }
