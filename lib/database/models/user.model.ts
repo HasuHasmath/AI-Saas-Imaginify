@@ -1,5 +1,3 @@
-// clerkid email username photo firstname lastname planId creditbalance reatedat updatedat 
-
 import { Schema, model, models } from "mongoose";
 
 const UserSchema = new Schema({
